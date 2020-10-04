@@ -1,0 +1,1 @@
+{"ast":null,"code":"import DefaultLayout from '@layouts/De';","map":{"version":3,"sources":["C:/Users/Brad/nextjs-blog/pages/index.js"],"names":["DefaultLayout"],"mappings":"AAAA,OAAOA,aAAP,MAA0B,aAA1B","sourcesContent":["import DefaultLayout from '@layouts/De'"]},"metadata":{},"sourceType":"module"}

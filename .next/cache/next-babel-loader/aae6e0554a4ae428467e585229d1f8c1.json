@@ -1,0 +1,1 @@
+{"ast":null,"code":"import PostLayout from \"@layout/posts\";","map":{"version":3,"sources":["C:/Users/Brad/nextjs-blog/pages/posts/[slug].js"],"names":["PostLayout"],"mappings":"AAAA,OAAOA,UAAP,MAAuB,eAAvB","sourcesContent":["import PostLayout from \"@layout/posts\""]},"metadata":{},"sourceType":"module"}
